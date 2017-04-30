@@ -9,11 +9,12 @@ html {
 
 /* GLOBAL STYLES */
 a {
-  color: red;
+  color: #f00;
 }
 
 /* SOCIAL STYLES */
 .social-link {
+  background-color: rgba(150, 150, 150, 0.5);
   color: blue;
 }
 
