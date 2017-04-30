@@ -1,17 +1,28 @@
-a {
-  color: red;
-}
-.bio-box {
-  width: 50%;
-  border: 1px solid black;
-}
-.bio-box p a {
-  color: green;
-}
-.alert {
+/* HOMEPAGE STYLE
+
+html {
   background-color: red;
 }
 
-a.social-link {
+*/
+
+
+/* GLOBAL STYLES */
+a {
+  color: red;
+}
+
+/* SOCIAL STYLES */
+.social-link {
   color: blue;
+}
+
+/* BIO STYLES */
+
+.bio-box {
+  border: 1px solid black;
+}
+
+.bio-copy a {
+  color: green;
 }
