@@ -3,11 +3,15 @@ a {
 }
 .bio-box {
   width: 50%;
-border: 1px solid black;
+  border: 1px solid black;
 }
-.bio-box a {
-color: green;
+.bio-box p a {
+  color: green;
 }
 .alert {
   background-color: red;
+}
+
+a.social-link {
+  color: blue;
 }
