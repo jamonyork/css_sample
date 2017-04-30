@@ -1,12 +1,13 @@
 a {
   color: red;
 }
-#exec-bio {
-background-color: lightgray;
-}
 .bio-box {
+  width: 50%;
 border: 1px solid black;
 }
 .bio-box a {
 color: green;
+}
+.alert {
+  background-color: red;
 }
