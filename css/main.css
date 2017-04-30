@@ -1,0 +1,46 @@
+/* esto es un comentario
+de Jorge
+*/
+h1 {
+  color: green;
+}
+/* a {
+  color: red;
+  }   */
+
+#exec-bio {
+  background-color: lightgray;
+  }
+.bio-box {
+  border: 1px solid black;
+}
+.bio-box {
+  width: 100% !important;
+}
+.bio-box {
+  width: 50%;
+}
+/*.bio-box a {
+  color: green;
+} */
+
+#test-class {
+  background-color: orange;
+  }
+/* this is comment .test-class {background-color: azure; } */
+
+.alert {
+  background-color: purple;
+}
+a.social-link {
+  color: blue;
+  background: rgba(150, 150, 150, 0.5);
+}
+.bio-wrapper {
+  width: 500px
+}
+.bio-box {
+  border: 1px solid #000;
+  width: 50%;
+  margin: 10%;
+}
