@@ -8,6 +8,10 @@ html {
 
 
 /* GLOBAL STYLES */
+/* body {
+  height: 800px
+}*/ 
+
 a {
   color: #f00;
 }
@@ -24,11 +28,13 @@ h2 {
 
 /* BIO STYLES */
 
-.bio-box {
-  border: 10px solid black;
-  width: 200px;
+.bio-wrapper {
+/*  width: 500px;*/
 }
-
+.bio-box {
+  border: 1px solid black;
+  width: 50%;
+}
 .bio-copy a {
   color: green;
 }
